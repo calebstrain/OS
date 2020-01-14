@@ -1,3 +1,3 @@
 # OS
 
-## Simple Programming Assignments for Operating Systems with Rincon
+## Collection of simple programming assignments for Operating Systems 
